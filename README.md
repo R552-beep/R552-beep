@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I practice Modern Arnis a Filipino martial art focused on stick fighting and self-defense techniques.
 ---
 ### Tech Skills:
-- Java (JUnit, Mockito)
+- Java (JUnit)
 - Ruby (Sinatra, RSpec, Capybara) 
 - JavaScript (React, Node.js, Express, Jest, Cypress)
 - Databases (MongoDB, SQL: PostgreSQL)
