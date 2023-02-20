@@ -13,8 +13,8 @@
 ---
 ### Tech Skills:
 - Java (JUnit)
-- Ruby (Sinatra, RSpec, Capybara) 
-- JavaScript (React, Node.js, Express, Jest, Cypress)
-- Databases (MongoDB, SQL: PostgreSQL)
+- Ruby (RSpec, Capybara, Sinatra) 
+- JavaScript (Jest, Cypress, React, Node.js, Express,)
+- Databases (MongoDB, SQL)
 - HTML, CSS
 - Git, GitHub
